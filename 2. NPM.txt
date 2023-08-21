@@ -1,0 +1,2 @@
+There is no officially  written that npm stands for node package manager. You can also contribute for the 
+full name of it in the official documentation at "https://github.com/npm/npm-expansions".
